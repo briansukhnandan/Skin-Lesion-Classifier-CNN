@@ -20,7 +20,7 @@ https://mega.nz/file/UN1kxQTb#KgZ5Nbjp6h-MMPuzMW1uBnGgE7Tgo2xd4lTkJplUrWI
 Run 'generate_model.py' in the same directory as the dataset, which will produce a 'saved_model/' directory to run
 the model later, as well as a 'history.npy' file which keeps all attributes of the model.
 
-Afterwards, run 'load_model.py' to produce a confusion matrix and a classification report pertaining to the model.
+Afterwards, run 'load_model.py' to evaluate the model, and then produce a confusion matrix and a classification report based on our results.
 
 ## Results
 After training this model on 25 epochs, we are given the following results:
