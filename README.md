@@ -11,10 +11,8 @@ Convolutional Neural Network to classify different types of Malignant/Benign Ski
 Inspired by this study: https://arxiv.org/pdf/1810.10348.pdf
 
 ## How do I use it?
-Firstly, have Python 3.6 installed. Next, install the required dependencies: 
+Firstly, have Python 3.6 installed. Next, install the required dependencies (Setting up a virtual environment would be helpful in this!): 
 os, tensorflow, pandas, numpy, matplotlib, itertools, sklearn, shutil, and PIL.
-
-Setting up a virtual environment would be helpful in this!
 
 Next, acquire a copy of the HAM10000 dataset with my personal modifications (alternatively can be obtained online):
 https://mega.nz/file/UN1kxQTb#KgZ5Nbjp6h-MMPuzMW1uBnGgE7Tgo2xd4lTkJplUrWI
