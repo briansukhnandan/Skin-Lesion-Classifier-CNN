@@ -1,4 +1,4 @@
-## Skin-Lesion-Classifier-CNN
+# Skin-Lesion-Classifier-CNN
 Convolutional Neural Network to classify different types of Skin Lesions based on 7 different categories: 
 - Melanocytic nevi 
 - Melanoma 
@@ -10,7 +10,7 @@ Convolutional Neural Network to classify different types of Skin Lesions based o
 
 Inspired by this study: https://arxiv.org/pdf/1810.10348.pdf
 
-# How do I use it?
+## How do I use it?
 Firstly, the dependencies needed are: 
 os, tensorflow, pandas, numpy, matplotlib, itertools, sklearn, shutil, and PIL.
 
@@ -22,7 +22,7 @@ the model later, as well as a 'history.npy' file which keeps all attributes of t
 
 Afterwards, run 'load_model.py' to produce a confusion matrix and a classification report pertaining to the model.
 
-# Results
+## Results
 After training this model on 25 epochs, we are given the following results:
 
 Confusion matrix, without normalization
