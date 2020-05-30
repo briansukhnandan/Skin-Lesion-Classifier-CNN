@@ -25,7 +25,7 @@ Afterwards, run 'load_model.py' to evaluate the model, and then produce a confus
 ## Results
 After training this model on 25 epochs, we are given the following results:
 
-Confusion matrix, without normalization
+Confusion matrix, without normalization:
 
 ![graph_3](https://i.imgur.com/jjTRpEN.png)
 
