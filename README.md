@@ -1,5 +1,5 @@
 # Skin-Lesion-Classifier-CNN
-Convolutional Neural Network to classify different types of Skin Lesions based on 7 different categories: 
+Convolutional Neural Network to classify different types of Malignant/Benign Skin Lesions based on 7 different categories: 
 - Melanocytic nevi 
 - Melanoma 
 - Basal cell carcinoma 
