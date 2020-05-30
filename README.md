@@ -26,30 +26,13 @@ Afterwards, run 'load_model.py' to produce a confusion matrix and a classificati
 After training this model on 25 epochs, we are given the following results:
 
 Confusion matrix, without normalization
-[[ 13   1   3   0   3   6   0]
- [  0  26   2   2   0   0   0]
- [  1   1  42   2  11  18   0]
- [  0   0   0   2   1   3   0]
- [  0   2   6   0  19  12   0]
- [  3   3   7   0  10 726   2]
- [  1   0   0   0   0   3   7]]
- 
+
+![graph_3](https://i.imgur.com/jjTRpEN.png)
 
 Classification Report:
-              precision    recall  f1-score   support
 
-       akiec       0.72      0.50      0.59        26
-         bcc       0.79      0.87      0.83        30
-         bkl       0.70      0.56      0.62        75
-          df       0.33      0.33      0.33         6
-         mel       0.43      0.49      0.46        39
-          nv       0.95      0.97      0.96       751
-        vasc       0.78      0.64      0.70        11
-
-    accuracy                           0.89       938
-   macro avg       0.67      0.62      0.64       938
-weighted avg       0.89      0.89      0.89       938
-
+![graph_1](https://i.imgur.com/VaTBsCM.png)
 
 As well as the produced graphs:
-![graph_1](https://i.imgur.com/1vzjR5Q.png)
+
+![graph_2](https://i.imgur.com/1vzjR5Q.png)
