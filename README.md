@@ -14,7 +14,7 @@ Inspired by this study: https://arxiv.org/pdf/1810.10348.pdf
 Firstly, the dependencies needed are: 
 os, tensorflow, pandas, numpy, matplotlib, itertools, sklearn, shutil, and PIL.
 
-Next, acquire a copy of the HAM10000 dataset with my modifications (alternatively can be obtained online):
+Next, acquire a copy of the HAM10000 dataset with my personal modifications (alternatively can be obtained online):
 https://mega.nz/file/UN1kxQTb#KgZ5Nbjp6h-MMPuzMW1uBnGgE7Tgo2xd4lTkJplUrWI
 
 Run 'generate_model.py' in the same directory as the dataset, which will produce a 'saved_model/' directory to run
