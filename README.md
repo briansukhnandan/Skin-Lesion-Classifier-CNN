@@ -1,6 +1,4 @@
 # Skin-Lesion-Classifier-CNN
-Final project for CS381 - Biomedical Image Analysis with Professor Chialing Tsai
-
 A Convolutional Neural Network to classify different types of Malignant/Benign Skin Lesions based on 7 different categories: 
 - Melanocytic nevi 
 - Melanoma 
